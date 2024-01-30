@@ -1,38 +1,38 @@
-**Na podstawie dnia 29.01.2024 roku. Godzina 21:09**
+**Na podstawie dnia 30.01.2024 roku. Godzina 21:24**
 
 ## Funkcjonowalne boty. (Od 100,000)
 
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ |
-|    🥇1 | [StartIT](https://discord.com/oauth2/authorize?client_id=572906387382861835&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)          |               317,000 |
+|    🥇1 | [StartIT](https://discord.com/oauth2/authorize?client_id=572906387382861835&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)          |               316,000 |
 
 ## Funkcjonowalne boty. (Od 10,000)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ |
-|    🥇1 | [AdviceBot](https://discord.com/oauth2/authorize?client_id=942110955502989373&permissions=8&scope=bot)        |               74,300 |
+|    🥇1 | [AdviceBot](https://discord.com/oauth2/authorize?client_id=942110955502989373&permissions=8&scope=bot)        |               74,400 |
 |    🥈2 | [Bot Muzyczny](https://discord.com/oauth2/authorize?client_id=840892428613320726&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |               24,900 |
-|    🥉3 | [BOOMfinity](https://discord.com/oauth2/authorize?client_id=450017151323996173&permissions=8&scope=bot) 💣        |               20,400 |
+|    🥉3 | [BOOMfinity](https://discord.com/oauth2/authorize?client_id=450017151323996173&permissions=8&scope=bot) 💣        |               20,300 |
 
 ## Funkcjonowalne boty. (Od 1,000)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ |
 |    🥇1 | [vaobot](https://discord.com/oauth2/authorize?client_id=582183202341388308&scope=bot)           |      5,320        |
-|    🥈2 | [Somsiad](https://discord.com/oauth2/authorize?client_id=473816281028493314&permissions=8&scope=bot)           |      5,100        |
+|    🥈2 | [Somsiad](https://discord.com/oauth2/authorize?client_id=473816281028493314&permissions=8&scope=bot)           |      5,090        |
 |    🥉3 | [boht](https://discord.com/oauth2/authorize?client_id=489377322042916885&permissions=8&scope=bot)        |               4,630 |
 |    4 | [Janusz](https://discord.com/oauth2/authorize?client_id=699551628499615764&permissions=8&scope=bot)        |               4,620 |
 |    5 | [StartIT (Beta)](https://discord.com/oauth2/authorize?client_id=690617660177907712&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)        |               3,900 |
 |    6 | [FratikB0T](https://discord.com/oauth2/authorize?client_id=338359366891732993&permissions=8&scope=bot)        |               3,560 |
-|    7 | [Atorin](https://discord.com/oauth2/authorize?client_id=408959273956147200&permissions=8&scope=bot)        |               2,140 |
+|    7 | [Atorin](https://discord.com/oauth2/authorize?client_id=408959273956147200&permissions=8&scope=bot)        |               2,150 |
 |    8| [Klonba](https://discord.com/oauth2/authorize?client_id=488809387910234145&permissions=8&scope=bot)        |               1,880 |
 |    9| [Vision](https://discord.com/oauth2/authorize?client_id=987166863593189376&permissions=8&scope=bot)        |               2,030 |
-|    10| [Polish Memes](https://discord.com/oauth2/authorize?client_id=829662885058707497&permissions=8&scope=bot)        |               1,120 |
+|    10| [Polish Memes](https://discord.com/oauth2/authorize?client_id=829662885058707497&permissions=8&scope=bot)        |               1,110 |
 
 ## Funkcjonowalne boty. (Od 750)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ |
 |    🥇1| [Furxenity](https://discord.com/oauth2/authorize?client_id=826778019179659314&permissions=8&scope=bot)       |               883 |
-|    🥈2| [RadiOOMbo BOT](https://discord.com/oauth2/authorize?client_id=675416683481006159&permissions=8&scope=bot) 💣        |               811 |
-|    🥉3 | [Bot Muzyczny 2](https://discord.com/oauth2/authorize?client_id=933385820889550878&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |       794         |
+|    🥈2 | [Bot Muzyczny 2](https://discord.com/oauth2/authorize?client_id=933385820889550878&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |       821         |
+|    🥉3| [RadiOOMbo BOT](https://discord.com/oauth2/authorize?client_id=675416683481006159&permissions=8&scope=bot) 💣        |               812 |
 
 
 
