@@ -1,4 +1,4 @@
-**Na podstawie dnia 31.01.2024 roku. Godzina 22:02**
+**Na podstawie dnia 31.01.2024 roku. Godzina 22:42**
 
 ## Funkcjonowalne boty. (Od 100,000)
 
@@ -26,6 +26,7 @@
 |    8| [Klonba](https://discord.com/oauth2/authorize?client_id=488809387910234145&permissions=8&scope=bot)        |               1,880 |
 |    9| [Vision](https://discord.com/oauth2/authorize?client_id=987166863593189376&permissions=8&scope=bot)        |               2,040 |
 |    10| [Polish Memes](https://discord.com/oauth2/authorize?client_id=829662885058707497&permissions=8&scope=bot)        |               1,110 |
+|    11| [Skręcior](https://discord.com/oauth2/authorize?client_id=939103800898224139&permissions=8&scope=bot)        |               1,100 |
 
 ## Funkcjonowalne boty. (Od 750)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów |
@@ -36,7 +37,7 @@
 
 
 
-## Nieobsługiwane boty.
+## Nieobsługiwane boty. (Od 500)
 *Nie będą aktualizowane szacunkowe liczby serwerów.*
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów | Przyczyna |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ | ------------------------ |
@@ -51,6 +52,7 @@
 |    9 | [Slóth ✨](https://discord.com/oauth2/authorize?client_id=800442243697213442&scope=bot)           |      958       |       Nieznana.   |
 |    10 | [Genzy](https://discord.com/oauth2/authorize?client_id=954496821672153119&scope=bot)           |      814        |       Brak chęci twórcy.   |
 |    11 | [Shiroe](https://discord.com/oauth2/authorize?client_id=778697286950715413&permissions=8&scope=bot)        |               761 | Migracja do nowego bota. |
+|    12 | [KorwinowyBot](https://discord.com/oauth2/authorize?client_id=778641026776301608&permissions=8&scope=bot)        |               676 | Nieznane. |
 
 
 ### Legendy.
