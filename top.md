@@ -1,39 +1,39 @@
-**Na podstawie dnia 07.02.2024 roku. Godzina 20:20**
+**Na podstawie dnia 11.02.2024 roku. Godzina 22:21**
 
 ## Funkcjonowalne boty. (Od 100,000)
 
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ |
-|    🥇1 | [StartIT](https://discord.com/oauth2/authorize?client_id=572906387382861835&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)          |               317,000 |
+|    🥇1 | [StartIT](https://discord.com/oauth2/authorize?client_id=572906387382861835&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)          |               316,000 |
 
 ## Funkcjonowalne boty. (Od 10,000)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ |
-|    🥇1 | [AdviceBot](https://discord.com/oauth2/authorize?client_id=942110955502989373&permissions=8&scope=bot)        |               75,200 |
-|    🥈2 | [Bot Muzyczny](https://discord.com/oauth2/authorize?client_id=840892428613320726&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |               25,300 |
+|    🥇1 | [AdviceBot](https://discord.com/oauth2/authorize?client_id=942110955502989373&permissions=8&scope=bot)        |               75,600 |
+|    🥈2 | [Bot Muzyczny](https://discord.com/oauth2/authorize?client_id=840892428613320726&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |               25,400 |
 |    🥉3 | [BOOMfinity](https://discord.com/oauth2/authorize?client_id=450017151323996173&permissions=8&scope=bot) 💣        |               20,400 |
 
 ## Funkcjonowalne boty. (Od 1,000)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ |
-|    🥇1 | [vaobot](https://discord.com/oauth2/authorize?client_id=582183202341388308&scope=bot)           |      5,320        |
-|    🥈2 | [Somsiad](https://discord.com/oauth2/authorize?client_id=473816281028493314&permissions=8&scope=bot)           |      5,100      |
-|    🥉3 | [boht](https://discord.com/oauth2/authorize?client_id=489377322042916885&permissions=8&scope=bot)        |               4,650 |
-|    4 | [Janusz](https://discord.com/oauth2/authorize?client_id=699551628499615764&permissions=8&scope=bot)        |               4,630 |
+|    🥇1 | [vaobot](https://discord.com/oauth2/authorize?client_id=582183202341388308&scope=bot)           |      5,310        |
+|    🥈2 | [Somsiad](https://discord.com/oauth2/authorize?client_id=473816281028493314&permissions=8&scope=bot)           |      5,090      |
+|    🥉3 | [boht](https://discord.com/oauth2/authorize?client_id=489377322042916885&permissions=8&scope=bot)        |               4,660 |
+|    4 | [Janusz](https://discord.com/oauth2/authorize?client_id=699551628499615764&permissions=8&scope=bot)        |               4,640 |
 |    5 | [StartIT (Beta)](https://discord.com/oauth2/authorize?client_id=690617660177907712&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)        |               3,900 |
-|    6 | [FratikB0T](https://discord.com/oauth2/authorize?client_id=338359366891732993&permissions=8&scope=bot)        |               3,560 |
+|    6 | [FratikB0T](https://discord.com/oauth2/authorize?client_id=338359366891732993&permissions=8&scope=bot)        |               3,550 |
 |    7 | [Atorin](https://discord.com/oauth2/authorize?client_id=408959273956147200&permissions=8&scope=bot)        |               2,150 |
-|    8| [Vision](https://discord.com/oauth2/authorize?client_id=987166863593189376&permissions=8&scope=bot)        |               2,110 |
-|    9| [Klonba](https://discord.com/oauth2/authorize?client_id=488809387910234145&permissions=8&scope=bot)        |               1,880 |
-|    10| [Polish Memes](https://discord.com/oauth2/authorize?client_id=829662885058707497&permissions=8&scope=bot)        |               1,110 |
-|    11| [Skręcior](https://discord.com/oauth2/authorize?client_id=939103800898224139&permissions=8&scope=bot)        |               1,120 |
+|    8| [Vision](https://discord.com/oauth2/authorize?client_id=987166863593189376&permissions=8&scope=bot)        |               2,140 |
+|    9| [Klonba](https://discord.com/oauth2/authorize?client_id=488809387910234145&permissions=8&scope=bot)        |               1,890 |
+|    10| [Skręcior](https://discord.com/oauth2/authorize?client_id=939103800898224139&permissions=8&scope=bot)        |               1,130 |
+|    11| [Polish Memes](https://discord.com/oauth2/authorize?client_id=829662885058707497&permissions=8&scope=bot)        |               1,110 |
 
 ## Funkcjonowalne boty. (Od 750)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ |
 |    🥇1| [Furxenity](https://discord.com/oauth2/authorize?client_id=826778019179659314&permissions=8&scope=bot)       |               887 |
-|    🥈2 | [Bot Muzyczny 2](https://discord.com/oauth2/authorize?client_id=933385820889550878&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |       832         |
-|    🥉3| [RadiOOMbo BOT](https://discord.com/oauth2/authorize?client_id=675416683481006159&permissions=8&scope=bot) 💣        |               816 |
+|    🥈2 | [Bot Muzyczny 2](https://discord.com/oauth2/authorize?client_id=933385820889550878&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |       850         |
+|    🥉3| [RadiOOMbo BOT](https://discord.com/oauth2/authorize?client_id=675416683481006159&permissions=8&scope=bot) 💣        |               817 |
 
 
 
@@ -46,7 +46,7 @@
 |    3 | [YetAnotherBot](https://discord.com/oauth2/authorize?client_id=576468895461015552&permissions=8&scope=bot)        |               4,690 | Nieznana |
 |    4 | [LabyBOT](https://discord.com/oauth2/authorize?client_id=546058545917984769&scope=bot)          |      2,250        |        Brak wsparcia ze strony twórców. |
 |    5 | [Tune🎶](https://discord.com/oauth2/authorize?client_id=821795249348411393&scope=bot)           |      2,200        |       Żądania od Google o zamkncięcie z powodu wykorzystania API YouTube.   |
-|    6 | [Infinity](https://discord.com/oauth2/authorize?client_id=545926934886875139&scope=bot) 💣          |      2,140        |       Dawna beta V2, przeznaczony do większych testów.   |
+|    6 | [Infinity](https://discord.com/oauth2/authorize?client_id=545926934886875139&scope=bot)           |      2,140        |       Dawna beta, dawny bot społecznościowy  |
 |    7 | [NeroBot](https://discord.com/oauth2/authorize?client_id=715273322199515316&scope=bot)           |      1,400        |       Nieznana.   |
 |    8 | [KuvuBot](https://discord.com/oauth2/authorize?client_id=205965155282976768&scope=bot)           |      1,260        |       Nieznana.   |
 |    9 | Almighty BOT           |      1,320        |       Nieznana.   |
