@@ -46,7 +46,7 @@
 |    3 | [YetAnotherBot](https://discord.com/oauth2/authorize?client_id=576468895461015552&permissions=8&scope=bot)        |               4,690 | Nieznana |
 |    4 | [LabyBOT](https://discord.com/oauth2/authorize?client_id=546058545917984769&scope=bot)          |      2,250        |        Brak wsparcia ze strony twórców. |
 |    5 | [Tune🎶](https://discord.com/oauth2/authorize?client_id=821795249348411393&scope=bot)           |      2,200        |       Żądania od Google o zamkncięcie z powodu wykorzystania API YouTube.   |
-|    6 | [Infinity](https://discord.com/oauth2/authorize?client_id=545926934886875139&scope=bot)           |      2,140        |       Dawna beta, dawny bot społecznościowy  |
+|    6 | [Infinity 💣](https://discord.com/oauth2/authorize?client_id=545926934886875139&scope=bot)           |      2,140        |       Dawna beta, dawny bot społecznościowy  |
 |    7 | [NeroBot](https://discord.com/oauth2/authorize?client_id=715273322199515316&scope=bot)           |      1,400        |       Nieznana.   |
 |    8 | [KuvuBot](https://discord.com/oauth2/authorize?client_id=205965155282976768&scope=bot)           |      1,260        |       Nieznana.   |
 |    9 | Almighty BOT           |      1,320        |       Nieznana.   |
