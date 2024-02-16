@@ -49,7 +49,7 @@
 |    6 | [Infinity 💣](https://discord.com/oauth2/authorize?client_id=545926934886875139&scope=bot)           |      2,140        |       Dawna beta, dawny bot społecznościowy  |
 |    7 | [NeroBot](https://discord.com/oauth2/authorize?client_id=715273322199515316&scope=bot)           |      1,400        |       Nieznana.   |
 |    8 | [KuvuBot](https://discord.com/oauth2/authorize?client_id=205965155282976768&scope=bot)           |      1,260        |       Nieznana.   |
-|    9 | Almighty BOT           |      1,320        |       Nieznana.   |
+|    9 | [Almighty BOT](https://discord.com/oauth2/authorize?client_id=858410509454802944&scope=bot)           |      1,320        |       Nieznana.   |
 |    10 | [Slóth ✨](https://discord.com/oauth2/authorize?client_id=800442243697213442&scope=bot)           |      958       |       Nieznana.   |
 |    11 | [Genzy](https://discord.com/oauth2/authorize?client_id=954496821672153119&scope=bot)           |      814        |       Brak chęci twórcy.   |
 |    12 | [Shiroe](https://discord.com/oauth2/authorize?client_id=778697286950715413&permissions=8&scope=bot)        |               761 | Migracja do nowego bota. |
