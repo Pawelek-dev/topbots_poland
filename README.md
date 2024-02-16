@@ -58,7 +58,7 @@
 
 [KuvuBot](https://discord.com/oauth2/authorize?client_id=205965155282976768&scope=bot)   
 
-Almighty BOT   
+[Almighty BOT](https://discord.com/oauth2/authorize?client_id=858410509454802944&scope=bot)   
 
 [Slóth ✨](https://discord.com/oauth2/authorize?client_id=800442243697213442&scope=bot)   
 
