@@ -1,6 +1,6 @@
 **Na podstawie dnia 26.02.2024 roku. Godzina 22:59**
 
-Następuje drobna edycja tabeli odnośnie odznak i biblioteki botów. Wkrótce zostaną pełnie uzupełnione.
+Następuje drobna edycja tabeli odnośnie odznak i biblioteki botów. Wkrótce zostaną w pełni uzupełnione.
 
 ## Funkcjonowalne boty. (Od 100,000)
 
