@@ -74,7 +74,7 @@
 ## Odznaki bota.
 ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) - Bot używa polecenia Slash Commands globalnie.
 
-![](https://pawelek.ml/odznaki/premiumbot30x30.ico) - Bot posiada opcje kupna subskrypcji w wbudowanej sklepu Discorda.
+![](https://pawelek.ml/odznaki/premiumbot30x30.ico) - Bot posiada opcje kupna subskrypcji w wbudowanej sklepie Discorda.
 
 ![](https://pawelek.ml/odznaki/automod30x30.ico) - Bot utworzył 100 zasad na serwerach.
 
