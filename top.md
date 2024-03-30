@@ -82,7 +82,7 @@
 ### Podziękowania
 minerpl - Research brakujących botów.
 
-senpai_0000 - Resarch brakujących botów.
+senpai_0000 - Research brakujących botów.
 
 ### Uwagi
 * *Aktualizacje tabeli jest ręcznie wykonane, jeśli pojawi się zmiana w tabeli to zostanie zmienione.*
