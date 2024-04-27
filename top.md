@@ -1,44 +1,44 @@
-**Na podstawie dnia 15.04.2024 roku. Godzina 17:52**
+**Na podstawie dnia 27.04.2024 roku. Godzina 21:14**
 
 ## Funkcjonowalne boty. (Od 100,000)
 
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów | Biblioteka | Odznaki bota |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ | ------------------------ | ------------------------ |
-|    🥇1 | [StartIT](https://discord.com/oauth2/authorize?client_id=572906387382861835&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)          |               329,000 | Niestandardowy (Python) |  ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico)
+|    🥇1 | [StartIT](https://discord.com/oauth2/authorize?client_id=572906387382861835&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)          |               327,000 | Niestandardowy (Python) |  ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico)
 
 ## Funkcjonowalne boty. (Od 10,000)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów | Biblioteka | Odznaki bota |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ | ------------------------ | ------------------------ |
-|    🥇1 | [AdviceBot](https://discord.com/oauth2/authorize?client_id=942110955502989373&permissions=8&scope=bot)        |               81,100 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    🥈2 | [Bot Muzyczny](https://discord.com/oauth2/authorize?client_id=840892428613320726&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |               26,900 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    🥇1 | [AdviceBot](https://discord.com/oauth2/authorize?client_id=942110955502989373&permissions=8&scope=bot)        |               81,800 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    🥈2 | [Bot Muzyczny](https://discord.com/oauth2/authorize?client_id=840892428613320726&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |               27,200 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
 |    🥉3 | [BOOMfinity](https://discord.com/oauth2/authorize?client_id=450017151323996173&permissions=8&scope=bot) 💣        |               20,500 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) | 
 
 ## Funkcjonowalne boty. (Od 1,000)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów | Biblioteka | Odznaki bota |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ | ------------------------ | ------------------------ |
-|    🥇1 | [vaobot](https://discord.com/oauth2/authorize?client_id=582183202341388308&scope=bot)           |      5,280        |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) ![](https://pawelek.ml/odznaki/premiumbot30x30.ico) ![](https://pawelek.ml/odznaki/automod30x30.ico)  |
+|    🥇1 | [vaobot](https://discord.com/oauth2/authorize?client_id=582183202341388308&scope=bot)           |      5,270        |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) ![](https://pawelek.ml/odznaki/premiumbot30x30.ico) ![](https://pawelek.ml/odznaki/automod30x30.ico)  |
 |    🥈2 | [Somsiad](https://discord.com/oauth2/authorize?client_id=473816281028493314&permissions=8&scope=bot)           |      5,100      | discord.py |  |
-|    🥉3 | [boht](https://discord.com/oauth2/authorize?client_id=489377322042916885&permissions=8&scope=bot)        |               4,820 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    4 | [Janusz](https://discord.com/oauth2/authorize?client_id=699551628499615764&permissions=8&scope=bot)        |               4,780 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    5 | [StartIT (Beta)](https://discord.com/oauth2/authorize?client_id=690617660177907712&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)        |               3,840 | Niestandardowy (Python) | ![](https://pawelek.ml/lmaosupportscommands.ico) |
-|    6 | [FratikB0T](https://discord.com/oauth2/authorize?client_id=338359366891732993&permissions=8&scope=bot)        |               3,560 | JDA | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    🥉3 | [boht](https://discord.com/oauth2/authorize?client_id=489377322042916885&permissions=8&scope=bot)        |               4,830 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    4 | [Janusz](https://discord.com/oauth2/authorize?client_id=699551628499615764&permissions=8&scope=bot)        |               4,810 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    5 | [StartIT (Beta)](https://discord.com/oauth2/authorize?client_id=690617660177907712&permissions=8&scope=bot) ![](https://pawelek.ml/startit.ico)        |               3,820 | Niestandardowy (Python) | ![](https://pawelek.ml/lmaosupportscommands.ico) |
+|    6 | [FratikB0T](https://discord.com/oauth2/authorize?client_id=338359366891732993&permissions=8&scope=bot)        |               3,550 | JDA | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
 |    7 | [Atorin](https://discord.com/oauth2/authorize?client_id=408959273956147200&permissions=8&scope=bot)        |               2,150 | discord.py | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    8| [Klonba](https://discord.com/oauth2/authorize?client_id=488809387910234145&permissions=8&scope=bot)        |               1,950 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    9| [Skręcior](https://discord.com/oauth2/authorize?client_id=939103800898224139&permissions=8&scope=bot)        |               1,260 |  | ![](https://pawelek.ml/odznaki/premiumbot30x30.ico) |
+|    8| [Klonba](https://discord.com/oauth2/authorize?client_id=488809387910234145&permissions=8&scope=bot)        |               1,960 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    9| [Skręcior](https://discord.com/oauth2/authorize?client_id=939103800898224139&permissions=8&scope=bot)        |               1,280 |  | ![](https://pawelek.ml/odznaki/premiumbot30x30.ico) |
 |    10| [Polish Memes](https://discord.com/oauth2/authorize?client_id=829662885058707497&permissions=8&scope=bot)        |               1,100 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico)  |
-|    11 | [Bot Muzyczny 2](https://discord.com/oauth2/authorize?client_id=933385820889550878&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |       1,030         | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    11 | [Bot Muzyczny 2](https://discord.com/oauth2/authorize?client_id=933385820889550878&permissions=8&scope=bot) ![](https://pawelek.ml/Bot-Muzyczny.ico)        |       1,080         | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
 
 ## Funkcjonowalne boty. (Od 500)
 | Ranking | Bot                                                                                           | Szacunkowa liczba serwerów | Biblioteka | Odznaki bota |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ | ------------------------ | ------------------------ |
-|    🥇1| [MaxHard BOT](https://discord.com/oauth2/authorize?client_id=684503427761569908&permissions=8&scope=bot)       |               939 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    🥈2| [Furxenity](https://discord.com/oauth2/authorize?client_id=826778019179659314&permissions=8&scope=bot)       |               901 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    🥉3| [RadiOOMbo BOT](https://discord.com/oauth2/authorize?client_id=675416683481006159&permissions=8&scope=bot) 💣        |               836 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    4| [Janusz](https://discord.com/oauth2/authorize?client_id=421679109954076692&permissions=8&scope=bot)        |               829 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    5| [Metrum](https://discord.com/oauth2/authorize?client_id=890577647980146688&permissions=8&scope=bot)        |               768 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    6| [popebot](https://discord.com/oauth2/authorize?client_id=997525532101050538&permissions=8&scope=bot)        |               693 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    7| [Versy](https://discord.com/oauth2/authorize?client_id=777962341601247302&permissions=8&scope=bot)        |               570 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    8| [Trit](https://discord.com/oauth2/authorize?client_id=564837787463843840&permissions=8&scope=bot)        |               503 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    🥇1| [MaxHard BOT](https://discord.com/oauth2/authorize?client_id=684503427761569908&permissions=8&scope=bot)       |               942 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    🥈2| [Furxenity](https://discord.com/oauth2/authorize?client_id=826778019179659314&permissions=8&scope=bot)       |               912 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    🥉3| [RadiOOMbo BOT](https://discord.com/oauth2/authorize?client_id=675416683481006159&permissions=8&scope=bot) 💣        |               844 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    4| [Janusz](https://discord.com/oauth2/authorize?client_id=421679109954076692&permissions=8&scope=bot)        |               830 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    5| [Metrum](https://discord.com/oauth2/authorize?client_id=890577647980146688&permissions=8&scope=bot)        |               789 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    6| [popebot](https://discord.com/oauth2/authorize?client_id=997525532101050538&permissions=8&scope=bot)        |               700 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    7| [Versy](https://discord.com/oauth2/authorize?client_id=777962341601247302&permissions=8&scope=bot)        |               589 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    8| [Trit](https://discord.com/oauth2/authorize?client_id=564837787463843840&permissions=8&scope=bot)        |               501 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
 
 
 
