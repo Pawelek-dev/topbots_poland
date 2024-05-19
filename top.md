@@ -33,7 +33,7 @@
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ | ------------------------ | ------------------------ |
 |    🥇1| [MaxHard BOT](https://discord.com/oauth2/authorize?client_id=684503427761569908&permissions=8&scope=bot)       |               950 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
 |    🥈2| [Furxenity](https://discord.com/oauth2/authorize?client_id=826778019179659314&permissions=8&scope=bot)       |               917 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
-|    🥉3| [UMPU](https://discord.com/oauth2/authorize?client_id=855900715720245289&permissions=8&scope=bot)       |               888 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
+|    🥉3| [UMPU](https://discord.com/oauth2/authorize?client_id=855900715720245289&permissions=8&scope=bot)       |               888 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
 |    4| [RadiOOMbo BOT](https://discord.com/oauth2/authorize?client_id=675416683481006159&permissions=8&scope=bot) 💣        |               861 | discord.js | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
 |    5| [Janusz](https://discord.com/oauth2/authorize?client_id=421679109954076692&permissions=8&scope=bot)        |               832 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
 |    6| [Metrum](https://discord.com/oauth2/authorize?client_id=890577647980146688&permissions=8&scope=bot)        |               805 |  | ![](https://pawelek.ml/odznaki/supportscommands30x30_1.ico) |
