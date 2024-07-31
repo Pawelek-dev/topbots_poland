@@ -1,6 +1,5 @@
-# Projekt został przejęty przez właściciela AdviceBot.
+# Projekt został przejęty przez zespół AdviceBot.
 ### link do ich projektu: https://topbots.tr1n.me
-
 
 **Na podstawie dnia 29.07.2024 roku. Godzina 20:17**
 
