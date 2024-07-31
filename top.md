@@ -1,3 +1,7 @@
+# Projekt został przejęty przez właściciela AdviceBot.
+### link do ich projektu: https://topbots.tr1n.me
+
+
 **Na podstawie dnia 29.07.2024 roku. Godzina 20:17**
 
 ## Funkcjonowalne boty. (Od 100,000)
